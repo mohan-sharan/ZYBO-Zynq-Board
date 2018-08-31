@@ -3,3 +3,5 @@
 
 ## _SOFTWARE_
 - Vivado Design Suite: https://www.xilinx.com/products/design-tools/vivado.html
+
+### UP-DOWN COUNTER

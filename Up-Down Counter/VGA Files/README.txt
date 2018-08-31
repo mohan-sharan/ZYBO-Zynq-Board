@@ -24,3 +24,6 @@ SVGA timing signal generator module
 
 VIDEO_OUT.v 
 video output mux module
+
+vga_constraints.xdc
+constraints file

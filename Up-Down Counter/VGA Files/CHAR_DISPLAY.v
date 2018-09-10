@@ -23,8 +23,6 @@ output			vga_green_data;
 output			vga_blue_data;
 input [1:0]     SW;
 
-//// Label Definitions ////
-// 48 character label for the example text
 reg [0:8*12-1] counter_out = "";
 
 reg clkdiv;

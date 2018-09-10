@@ -1,6 +1,7 @@
 FIBONACCI_15.bit
 Displays the first 15 fibonacci numbers on a VGA display
 
+...VGA FILES...
 CHAR_DISPLAY.v 
 module defining the characters to be stored in character RAM and the character background and foreground colors
 

@@ -13,3 +13,11 @@
 - The video below shows the counter's operation. 
 
 [![INTRO TO FPGAs: 4-BIT UP/DOWN COUNTER ON A ZYBO BOARD](http://img.youtube.com/vi/DrkU7wzI1gc/0.jpg)](https://www.youtube.com/watch?v=DrkU7wzI1gc "INTRO TO FPGAs: 4-BIT UP/DOWN COUNTER ON A ZYBO BOARD")
+
+### FIBONACCI SERIES
+- Connect the board to a laptop/desktop. Open Vivado 2018.2. 
+- Flow Navigator -> Program and Debug -> Open Hardware Manager -> Open target -> Auto Connect -> Program device
+- Select the bitstream programming file and click on "Program" to download it to your harwdare device.
+- FIBONACCI_15.bit: Displays the first 15 fibonacci numbers on a computer screen, through a VGA connector.
+
+[![INTRO TO FPGAs: FIBONACCI SERIES ON A ZYBO BOARD](http://img.youtube.com/vi/GFkzqQijoYw/0.jpg)](https://www.youtube.com/watch?v=GFkzqQijoYw "INTRO TO FPGAs: FIBONACCI SERIES ON A ZYBO BOARD")

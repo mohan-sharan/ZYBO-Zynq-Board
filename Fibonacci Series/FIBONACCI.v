@@ -7,7 +7,6 @@ output [11:0] FIBOUT;
 
 reg [11:0] prev_val;
 reg [11:0] curr_val;
-//integer done = 0;
 
 reg clkdiv;
 reg [26:0] count; //FOR CLK DIVISION
